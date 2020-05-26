@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/letusscrum/static/css/main.5f361e03.chunk.css",
-    "main.js": "/letusscrum/static/js/main.2c0c6cb3.chunk.js",
-    "main.js.map": "/letusscrum/static/js/main.2c0c6cb3.chunk.js.map",
+    "main.css": "/letusscrum/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/letusscrum/static/js/main.5924b978.chunk.js",
+    "main.js.map": "/letusscrum/static/js/main.5924b978.chunk.js.map",
     "runtime-main.js": "/letusscrum/static/js/runtime-main.56a95bda.js",
     "runtime-main.js.map": "/letusscrum/static/js/runtime-main.56a95bda.js.map",
     "static/js/2.9a805615.chunk.js": "/letusscrum/static/js/2.9a805615.chunk.js",
     "static/js/2.9a805615.chunk.js.map": "/letusscrum/static/js/2.9a805615.chunk.js.map",
     "index.html": "/letusscrum/index.html",
-    "precache-manifest.ba652eb8622717f868341bb28309443e.js": "/letusscrum/precache-manifest.ba652eb8622717f868341bb28309443e.js",
+    "precache-manifest.d7407370afa56f401feb06fcb9a575f8.js": "/letusscrum/precache-manifest.d7407370afa56f401feb06fcb9a575f8.js",
     "service-worker.js": "/letusscrum/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/letusscrum/static/css/main.5f361e03.chunk.css.map",
+    "static/css/main.27fd15f6.chunk.css.map": "/letusscrum/static/css/main.27fd15f6.chunk.css.map",
     "static/js/2.9a805615.chunk.js.LICENSE.txt": "/letusscrum/static/js/2.9a805615.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/letusscrum/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.56a95bda.js",
     "static/js/2.9a805615.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.2c0c6cb3.chunk.js"
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.5924b978.chunk.js"
   ]
 }
