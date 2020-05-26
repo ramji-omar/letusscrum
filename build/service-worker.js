@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/letusscrum/precache-manifest.ba652eb8622717f868341bb28309443e.js"
+  "/letusscrum/precache-manifest.d7407370afa56f401feb06fcb9a575f8.js"
 );
 
 self.addEventListener('message', (event) => {

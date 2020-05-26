@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "82cb00dd4612a80c6e682d7483e0a72c",
+    "revision": "139efaf08381308ceabf3a2aaf03cb74",
     "url": "/letusscrum/index.html"
   },
   {
-    "revision": "9bffb2b039e69329258c",
-    "url": "/letusscrum/static/css/main.5f361e03.chunk.css"
+    "revision": "112ebf76396547dd02fb",
+    "url": "/letusscrum/static/css/main.27fd15f6.chunk.css"
   },
   {
     "revision": "90492e491c32d215954c",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/letusscrum/static/js/2.9a805615.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9bffb2b039e69329258c",
-    "url": "/letusscrum/static/js/main.2c0c6cb3.chunk.js"
+    "revision": "112ebf76396547dd02fb",
+    "url": "/letusscrum/static/js/main.5924b978.chunk.js"
   },
   {
     "revision": "00c644e3728163af4498",
